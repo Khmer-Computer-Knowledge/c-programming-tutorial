@@ -1,0 +1,27 @@
+ Structure
+-------------------------
+
++ Structure Statement 
+
+struct [structure tag] {
+   dataType item1;
+   dataType item2;
+   ...
+   dataType itemN;
+} [variableName, ...];
+
++ Initialize Value
+
++ Exercise
+
+ User Input Number of Students: 5
+ StudentName: ?
+ C Programming: ?
+ C++ Programming: ?
+ Java Programming: ?
+---------------------------------------
+No	StudentName	C Pro	CPP	Java	Total	Average
+1	Chann Vichea	68	87	56	211	70.33
+?	...
+?	...
+?	...

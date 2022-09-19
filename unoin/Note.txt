@@ -1,0 +1,32 @@
+Structure struct
+struct [structure name] {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+} [varName1, varName2, ...];
+
+Union union
+------------------------
+union [union name] {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+} [varName1, varName2, ...];
+
+
+Anonymous Union and Structure in C
+----------------------------------
+struct {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+};
+union {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+};

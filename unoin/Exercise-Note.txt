@@ -1,0 +1,24 @@
+struct [structure name] {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+} [varName1, varName2, ...];
+
+union [union name] {
+	dataType member1;
+	dataType member2;
+	...
+	dataType memberN;
+} [varName1, varName2, ...];
+
+Book
+- Title
+- Author
+- Number of Page
+- Price
+
+Shirt
+- Color
+- Size
+- Price

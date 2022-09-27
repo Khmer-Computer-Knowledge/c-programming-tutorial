@@ -1,0 +1,4 @@
+typedef
+
+typedef <existingName> <aliasName>;
+char a;

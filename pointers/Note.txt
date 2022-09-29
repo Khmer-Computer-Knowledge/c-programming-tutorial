@@ -1,0 +1,12 @@
+C Pointers: Store address of another variable
+------------------------
+dataType *variableName;
+dataType * variableName;
+dataType* variableName;
+
+* : get value
+& : get address
+
+int a;
+printf("Enter value : ");
+scanf("%d", &a);
